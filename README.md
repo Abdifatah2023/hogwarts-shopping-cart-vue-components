@@ -30,7 +30,3 @@ When you're ready to ship your components to the wizarding world:
 npm run build
 
 ```
-
----
-
-Would you like me to add a section for **Component Documentation** or a **Troubleshooting** guide to this file?
