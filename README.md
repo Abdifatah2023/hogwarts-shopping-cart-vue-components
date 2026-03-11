@@ -1,9 +1,3 @@
-It looks like you're setting up a magical shopping experience with Vue 3! Since you have the functional basics down, I've polished the formatting to make it look professional and easy to read.
-
-Here is a refined version of your `README.md` that keeps your instructions clear while adding a bit of structure:
-
----
-
 # Hogwarts Shopping Cart (Vue Components)
 
 This project is a Vue 3 + Vite template designed to help you get started building magical shopping cart components.
